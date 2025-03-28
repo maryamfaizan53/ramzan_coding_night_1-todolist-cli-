@@ -2,6 +2,7 @@ import click
 import os
 import json
 
+
 Todolist = "todo.json"
 
 def load_task():
